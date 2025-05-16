@@ -18,7 +18,7 @@ Build an AI image SaaS platform that excels in image processing capabilities, in
 
 
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href=""/></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
