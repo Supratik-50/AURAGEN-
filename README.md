@@ -78,12 +78,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/adrianhajdin/imaginify.git
-cd imaginify
-```
 
 **Installation**
 
@@ -133,7 +128,6 @@ Replace the placeholder values with your actual respective account credentials. 
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
